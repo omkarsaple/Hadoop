@@ -28,3 +28,5 @@ CODE=hdfs dfs -rm -R test/test2
 
 
 
+
+
