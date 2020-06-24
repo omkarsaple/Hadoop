@@ -14,3 +14,9 @@ TO CREATE MULTIPLE DIRECTORIES
 
 CODE=hdfs dfs -mkdire test/test2/test3
 
+&
+
+**TO VIEW THE CONTENTS OF FOLDER**
+
+CODE=hdfs dfs -ls -R
+
