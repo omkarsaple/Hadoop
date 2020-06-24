@@ -20,3 +20,9 @@ CODE=hdfs dfs -mkdire test/test2/test3
 
 CODE=hdfs dfs -ls -R
 
+![Screenshot (12)](https://user-images.githubusercontent.com/64422457/85549622-cc981280-b63d-11ea-8081-84145c2a5f06.png)
+
+**DELETE DIRECTORY**
+
+CODE=hdfs dfs -rm -R test/test2
+
