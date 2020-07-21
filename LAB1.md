@@ -1,4 +1,4 @@
-**CREATE DIRECTORY IN HDFS**
+**LIST DIRECTORY IN HDFS**
 
 
 CODE=hdfs dfs -ls /
